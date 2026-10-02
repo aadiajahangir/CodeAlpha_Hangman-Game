@@ -70,4 +70,4 @@ This project was developed as part of my **Python Programming Internship at Code
 Developer: Aadia Jahangir
 
 - GitHub: github.com/aadiajahangir
-- LinkedIn: linkedin.com/in/aadia-jahangir-4717b73a6
+- LinkedIn: linkedin.com/in/aadia-jahangir
