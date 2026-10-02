@@ -57,9 +57,6 @@ HangmanGame/
 └── assets/
     └── Hangman Game.png
 
-
-> File names may vary depending on the final project structure.
-
 ## 🎯 Learning Outcome
 
 Building this project gave me practical experience in turning Python concepts into a complete interactive application. It also helped me improve my problem-solving, logical thinking, and understanding of how different Python concepts work together in a real project.
